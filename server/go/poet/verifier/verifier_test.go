@@ -3,7 +3,7 @@ package verifier
 import (
 	"testing"
 
-	"github.com/SomniaStellarum/POET/server/go/poet"
+	"github.com/svenski123/POET/server/go/poet"
 )
 
 func TestVerifier(t *testing.T) {

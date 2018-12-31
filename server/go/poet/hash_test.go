@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/spacemeshos/sha256-simd"
+	"github.com/svenski123/sha256-simd"
 	miniosha "github.com/minio/sha256-simd"
 )
 
